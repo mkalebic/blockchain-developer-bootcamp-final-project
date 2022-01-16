@@ -1,7 +1,7 @@
 # Forgotten Adventurers
 This project was built out of nostalgia for the early years of World of Warcraft. Seeing how empty Azeroth is these days, I'm reminded of all the adventurers that logged off for the last time years ago. The randomly generated descriptions in this contract evoke a sense of reflection on the lore behind each Forgotten Adventurer.
 
-The contract has been deployed on Rinkeby at `0x8292DD58cE1A9d43730a76989b53474319f92a72` and a front-end is hosted on [Replit](https://forgotten-adventurers.mattkalebic.repl.co/). 
+The contract has been deployed on Rinkeby at `0x5FEBDf314e728B6d9CA0C9e2dd6974ae1d073bF6` and a front-end is hosted on [Replit](https://forgotten-adventurers.mattkalebic.repl.co/). 
 
 # Requirements 
 Since we're using [Chainlink VRF](https://docs.chain.link/docs/chainlink-vrf/) as a a provably-fair and verifiable source of randomness, deploying on a local blockchain (i.e. Ganache) is unfortunately not an option. Instead, we'll deploy directly to Rinkeby and run our tests from there. 
