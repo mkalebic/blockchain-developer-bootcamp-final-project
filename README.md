@@ -39,3 +39,6 @@ Note, the below values have to be configured correctly for VRF requests to work.
 
 # Ethereum Address for Bootcamp NFT
 0x314B619c12B975bD8587317242C33FF08F943f31
+
+# Screencast
+https://www.youtube.com/watch?v=xTw1NoBWTOk 
