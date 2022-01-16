@@ -15,11 +15,9 @@ For development, I used:
 To deploy your own version on Rinkeby:
 - Clone this repository
 - Create a `.env` file within the main directory and add the following:
-    - MNEMONIC = "THE MNEMONIC PHRASE OF YOUR DEVELOPMENT WALLET"
-    - INFURA_KEY = "YOUR PROJECT KEY FROM INFURA"
-    - ETHERSCAN_KEY "API KEY FROM YOUR ETHERSCAN ACCOUNT"
-INFURA_KEY = "48a8d6b0b81948409c33a919486e8664"
-ETHERSCAN_KEY = "ZU8X3DAPPXW3DP3FVBGKFB6SVZH9TR1BMY" 
+    - `MNEMONIC` = "THE MNEMONIC PHRASE OF YOUR DEVELOPMENT WALLET"
+    - `INFURA_KEY` = "YOUR PROJECT KEY FROM INFURA"
+    - `ETHERSCAN_KEY` "API KEY FROM YOUR ETHERSCAN ACCOUNT"
 - `npm install`
 - If making any changes, `truffle compile`
 - `truffle migrate --network rinkeby` to deploy on the network
